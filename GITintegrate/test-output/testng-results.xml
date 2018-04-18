@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="204247" started-at="2018-04-18T19:47:53Z" finished-at="2018-04-18T19:51:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="204247" started-at="2018-04-18T19:47:53Z" finished-at="2018-04-18T19:51:18Z">
+      <class name="TEST1">
+        <test-method status="PASS" signature="invoke()[pri:0, instance:TEST1@35851384]" name="invoke" is-config="true" duration-ms="40690" started-at="2018-04-19T01:17:53Z" finished-at="2018-04-19T01:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TEST1@35851384]" name="login" is-config="true" duration-ms="39951" started-at="2018-04-19T01:18:34Z" finished-at="2018-04-19T01:19:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="BookFlight()[pri:0, instance:TEST1@35851384]" name="BookFlight" duration-ms="35434" started-at="2018-04-19T01:19:14Z" finished-at="2018-04-19T01:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight -->
+        <test-method status="PASS" signature="FlightStatus()[pri:0, instance:TEST1@35851384]" name="FlightStatus" is-config="true" duration-ms="16598" started-at="2018-04-19T01:19:50Z" finished-at="2018-04-19T01:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightStatus -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TEST1@35851384]" name="login" is-config="true" duration-ms="22161" started-at="2018-04-19T01:20:06Z" finished-at="2018-04-19T01:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Support()[pri:0, instance:TEST1@35851384]" name="Support" duration-ms="14218" started-at="2018-04-19T01:20:28Z" finished-at="2018-04-19T01:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Support -->
+        <test-method status="PASS" signature="FlightStatus()[pri:0, instance:TEST1@35851384]" name="FlightStatus" is-config="true" duration-ms="3482" started-at="2018-04-19T01:20:43Z" finished-at="2018-04-19T01:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightStatus -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TEST1@35851384]" name="login" is-config="true" duration-ms="21222" started-at="2018-04-19T01:20:46Z" finished-at="2018-04-19T01:21:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="SpecialDeals()[pri:0, instance:TEST1@35851384]" name="SpecialDeals" duration-ms="6031" started-at="2018-04-19T01:21:07Z" finished-at="2018-04-19T01:21:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecialDeals -->
+        <test-method status="PASS" signature="FlightStatus()[pri:0, instance:TEST1@35851384]" name="FlightStatus" is-config="true" duration-ms="3479" started-at="2018-04-19T01:21:13Z" finished-at="2018-04-19T01:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightStatus -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TEST1@35851384]" name="close" is-config="true" duration-ms="914" started-at="2018-04-19T01:21:17Z" finished-at="2018-04-19T01:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TEST1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+UN=signInBtn
+HOV=userLoginBlock
+MOB=login-input
+CON=login-continue-btn
+PWD=login-password
+SUB=login-submit-btn
+NAME=BookFlight
+CITY=flight_origin_city
+ARRIVAL=flight_destination_city
+ARVDATE=flight_origin_date
+ARVDATENO=24/04/2018
+DEPDATE=flight_destination_date
+DEPDATENO=26/04/2018
+SEARCH=BE_flight_flsearch_btn
+SHOW=userShowName
+OUT=logOut
